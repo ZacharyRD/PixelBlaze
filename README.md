@@ -14,7 +14,7 @@ Each `.epe` is a PixelBlaze pattern export (import via the PixelBlaze editor). T
 ## The skill
 
 The Claude skill that writes and maintains these patterns lives in its own repo:
-**https://github.com/ZacharyRD/pixelblaze-pattern-coder**
+**https://github.com/ZacharyRD/PixelBlaze-Skill**
 
 ## License
 
